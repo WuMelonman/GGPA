@@ -1,4 +1,4 @@
-# Network Slimming (Pytorch)
+# GGPA (Pytorch)
 
 This repository contains an official pytorch implementation for the following paper  
 [Learning Efficient Convolutional Networks Through Network Slimming](http://openaccess.thecvf.com/content_iccv_2017/html/Liu_Learning_Efficient_Convolutional_ICCV_2017_paper.html) (ICCV 2017).  
