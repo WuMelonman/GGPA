@@ -8,6 +8,8 @@ The code is based on [pytorch-slimming](https://github.com/foolwood/pytorch-slim
 
 The code mainly demonstrates the VGG19 network on the CIFAR dataset.
 
+Regarding CIFAR data, the code will automatically create a folder in the current directory for downloading during runtime.
+
 ## Dependencies
 pytorch v1.11.0, Python v3.8(ubuntu20.04), Cuda v11.3
 
